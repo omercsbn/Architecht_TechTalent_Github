@@ -1,0 +1,6 @@
+@FinansalYonetimWebApi_HostAddress = http://localhost:5032
+
+GET {{FinansalYonetimWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinansalYonetimWebApi", "FinansalYonetimWebApi.csproj", "{869BF2A2-F2E5-4995-AF81-F260D4BA0760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{869BF2A2-F2E5-4995-AF81-F260D4BA0760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869BF2A2-F2E5-4995-AF81-F260D4BA0760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869BF2A2-F2E5-4995-AF81-F260D4BA0760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869BF2A2-F2E5-4995-AF81-F260D4BA0760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2B57864-DA92-4549-898B-0302A069E45D}
+	EndGlobalSection
+EndGlobal
